@@ -1,4 +1,61 @@
-https://raw.githubusercontent.com/Dolly1016/MoreCosmic/master
-https://raw.githubusercontent.com/catudon1276/HK-hats/master
-https://raw.githubusercontent.com/seono968/SeonoHats/master
-https://raw.githubusercontent.com/catudon1276/CatudonCostume/master
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "88516b2b430f3615ad81c10e80f8da12",
+				"Address" : "XPZok87r_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "88516b2b430f3615ad81c10e80f8da12",
+				"Address" : "XPZok87r_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2408c3a7af6647a25aac1c0e082a7bd3",
+				"Address" : "XPZok87r_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "2408c3a7af6647a25aac1c0e082a7bd3",
+				"Address" : "XPZok87r_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ジャッカル",
+			"Author" : "狼花といろ",
+			"Package" : "roukaskin",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+		{
+			"AdaptiveInFront" : True,
+			"Name" : "青と赤の狼",
+			"Author" : "狼花といろ",
+			"Package" : "roukaskin",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "roukaskin",
+			"Format" : "rouka skin",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
+}
