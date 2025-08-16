@@ -3,26 +3,36 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "88516b2b430f3615ad81c10e80f8da12",
+				"Hash" : "5009a4289b73ad71d2844cbc85c0b1ce",
 				"Address" : "XPZok87r_Main.png",
 				"ExIsFront" : False
 			},
 			"Move" : {
-				"Hash" : "88516b2b430f3615ad81c10e80f8da12",
+				"Hash" : "5009a4289b73ad71d2844cbc85c0b1ce",
 				"Address" : "XPZok87r_Move.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "2408c3a7af6647a25aac1c0e082a7bd3",
+				"Hash" : "733b742c134d86b28cf64a0ff3c77fb6",
 				"Address" : "XPZok87r_Climb.png",
 				"ExIsFront" : False
 			},
+			"EnterVent" : {
+				"Hash" : "5009a4289b73ad71d2844cbc85c0b1ce",
+				"Address" : "XPZok87r_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"ExitVent" : {
+				"Hash" : "5009a4289b73ad71d2844cbc85c0b1ce",
+				"Address" : "XPZok87r_ExitVent.png",
+				"ExIsFront" : False
+			},
 			"Preview" : {
-				"Hash" : "2408c3a7af6647a25aac1c0e082a7bd3",
+				"Hash" : "5009a4289b73ad71d2844cbc85c0b1ce",
 				"Address" : "XPZok87r_Preview.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
+			"Bounce" : True,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
@@ -39,7 +49,7 @@
 	],
 	"Nameplates" : [
 		{
-			"AdaptiveInFront" : True,
+			"AdaptiveInFront" : False,
 			"Name" : "青と赤の狼",
 			"Author" : "狼花といろ",
 			"Package" : "roukaskin",
